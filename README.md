@@ -16,4 +16,4 @@
 2. Move project to htdocs
 3. Create database "edusphere"
 4. Import SQL file
-5. Run: http://localhost/Edusphere
+5. Run: http://localhost/Edusphere-master/
